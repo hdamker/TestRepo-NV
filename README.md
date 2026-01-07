@@ -1,3 +1,9 @@
+> **TEST REPOSITORY**: This is a test repository for CAMARA release workflow validation.
+> Mirror of [camaraproject/NumberVerification](https://github.com/camaraproject/NumberVerification).
+> Do not use for production purposes.
+
+---
+
 <a href="https://github.com/camaraproject/NumberVerification/commits/" title="Last Commit"><img src="https://img.shields.io/github/last-commit/camaraproject/NumberVerification?style=plastic"></a>
 <a href="https://github.com/camaraproject/NumberVerification/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/camaraproject/NumberVerification?style=plastic"></a>
 <a href="https://github.com/camaraproject/NumberVerification/pulls" title="Open Pull Requests"><img src="https://img.shields.io/github/issues-pr/camaraproject/NumberVerification?style=plastic"></a>
