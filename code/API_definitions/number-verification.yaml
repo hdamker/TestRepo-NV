@@ -318,3 +318,4 @@ components:
                 status: 403
                 code: NUMBER_VERIFICATION.USER_NOT_AUTHENTICATED_BY_MOBILE_NETWORK
                 message: Client must authenticate via the mobile network to use this service
+
